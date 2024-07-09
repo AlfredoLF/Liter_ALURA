@@ -13,4 +13,4 @@ Un bosquejo de las diferentes funcionalidades se muestra a continuación:
 
 ![image](https://github.com/AlfredoLF/Liter_ALURA/assets/82850657/306b95c7-46e9-4604-907e-3cbcd8b46fa7)
 
-Espero que tu experiencia sobre esta aplicación sea agradable, y espero me regales los mejor de tus comentarios constructivos.
+Espero que tu experiencia sobre esta aplicación sea agradable, y espero me regales lo mejor de tus comentarios constructivos.
